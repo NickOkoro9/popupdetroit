@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "kind": "local-git-note",
+    "ref": "refs/notes/bob",
+    "noteCommit": "9b1efcb7f093c419f959671f913ab2646e63b81e",
+    "annotatedCommit": "555199aaf355265bd515f6b7dd38f77286663ed1"
+  },
+  "eventCount": 49,
+  "events": [
+    {
+      "eventId": "7aa91ca2-04ee-4cfc-8fed-2e52ba4d8538",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T19:55:09.586Z"
+    },
+    {
+      "eventId": "d2c05c3e-6194-4b38-88f3-2772690b4d04",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T19:55:09.586Z"
+    },
+    {
+      "eventId": "f04c8ff6-ccd2-4372-b758-19f802382931",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T19:55:09.586Z"
+    },
+    {
+      "eventId": "56e954bf-6425-416c-9823-42fefe05f7c1",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T19:55:09.587Z"
+    },
+    {
+      "eventId": "605b8e6e-7249-4c4d-9c8a-bf9114738df4",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T19:55:09.587Z"
+    },
+    {
+      "eventId": "93d35964-6457-4332-9636-5751a60050e6",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T19:55:09.587Z"
+    },
+    {
+      "eventId": "40dea55a-f00b-42c8-92a7-4ffad1a2834d",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T19:55:36.470Z"
+    },
+    {
+      "eventId": "d470bd1c-2409-47de-964a-ad5bb51e75ff",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.673Z"
+    },
+    {
+      "eventId": "20ecf10b-1c78-4b0e-833f-9b200dce4e46",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.674Z"
+    },
+    {
+      "eventId": "9a67c7fe-c0ac-42aa-a7f5-d89b308826de",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.674Z"
+    },
+    {
+      "eventId": "f31e89b4-4ee0-4f5c-8443-76eef21c7259",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.674Z"
+    },
+    {
+      "eventId": "0ae64aae-e55e-4527-9609-dfc5e10e38f4",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.675Z"
+    },
+    {
+      "eventId": "13290b45-1db2-4d3e-97cf-62ba4ce894f5",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.675Z"
+    },
+    {
+      "eventId": "5b242883-9d40-443a-adc7-0a80f565e778",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.675Z"
+    },
+    {
+      "eventId": "9f4cce92-3940-44b3-80b4-de3953724a5f",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.675Z"
+    },
+    {
+      "eventId": "b74707d5-6cdf-405b-b946-970e8589d9ac",
+      "operation": "write_file",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T20:34:59.675Z"
+    },
+    {
+      "eventId": "5cb29174-8632-4856-9638-f7a0f5803a64",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.131Z"
+    },
+    {
+      "eventId": "1550389d-3160-4f1b-b8bd-51ef083f423e",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.132Z"
+    },
+    {
+      "eventId": "4be339b3-9624-49a7-83d3-e5cbbfa80d59",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.132Z"
+    },
+    {
+      "eventId": "a76d91d7-fbb9-4d73-9170-11032c4bab33",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.132Z"
+    },
+    {
+      "eventId": "bb3ee36e-2a0d-40ca-beef-54897bbe0e50",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.132Z"
+    },
+    {
+      "eventId": "df928d87-558c-462a-a138-b5d59ffda4a3",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.132Z"
+    },
+    {
+      "eventId": "9f9d0bb7-1745-4ba6-825a-d60c7b330ac9",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.133Z"
+    },
+    {
+      "eventId": "30138734-0c21-46a7-bafb-d15b0d49d1bd",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.134Z"
+    },
+    {
+      "eventId": "4371d5d5-ccaa-4e66-a757-5091afcd1697",
+      "operation": "write_file",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:36:34.134Z"
+    },
+    {
+      "eventId": "b968c2c9-991a-4167-9bf1-c722516c4e6a",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.provider.test.ts",
+      "timestamp": "2026-11-13T20:37:31.907Z"
+    },
+    {
+      "eventId": "47fa5389-4d9c-41b4-8047-dca37a530e0e",
+      "operation": "apply_diff",
+      "path": "src/lib/requirements-store.tsx",
+      "timestamp": "2026-11-13T21:09:37.876Z"
+    },
+    {
+      "eventId": "af7088a5-5f73-4bbb-9978-c7c519ab4885",
+      "operation": "apply_diff",
+      "path": "src/routes/match.tsx",
+      "timestamp": "2026-11-13T21:16:24.420Z"
+    },
+    {
+      "eventId": "055e62c3-9fd8-401d-8492-b42437b174bb",
+      "operation": "write_file",
+      "path": "src/lib/dna-normalization.test.ts",
+      "timestamp": "2026-11-13T21:16:41.136Z"
+    },
+    {
+      "eventId": "75a89245-d321-404d-b1aa-6d23103a928e",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:23:55.882Z"
+    },
+    {
+      "eventId": "2e58c970-2f16-4337-8b16-9d684eb24333",
+      "operation": "apply_diff",
+      "path": "src/routes/match.tsx",
+      "timestamp": "2026-11-13T21:24:03.454Z"
+    },
+    {
+      "eventId": "b6b7e6e4-9214-4a3b-9ddb-4b08f4be83da",
+      "operation": "write_file",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:25:25.941Z"
+    },
+    {
+      "eventId": "6b6a8b02-90e8-4c49-ae68-9d430fe8bc6e",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:34.710Z"
+    },
+    {
+      "eventId": "8990ec89-2a6b-4894-86fa-316b39a309d0",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:34.710Z"
+    },
+    {
+      "eventId": "ab0f2b78-5b84-4b96-95f6-f3d2a8d4ff17",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:34.710Z"
+    },
+    {
+      "eventId": "428b4af5-58ae-4a7c-a358-d2846a4886c9",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:43.711Z"
+    },
+    {
+      "eventId": "944d6173-5e0e-40e6-998c-023778230299",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:43.711Z"
+    },
+    {
+      "eventId": "0fbe2897-8dd2-418e-bf0a-18673b9dc881",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:56.254Z"
+    },
+    {
+      "eventId": "ddb4f137-68dc-497b-ae33-a3abc97eb117",
+      "operation": "apply_diff",
+      "path": "src/lib/matching/vintage-clothing.test.ts",
+      "timestamp": "2026-11-13T21:26:56.254Z"
+    },
+    {
+      "eventId": "1d24e7b8-3593-4c97-850e-c4f8547cf027",
+      "operation": "apply_diff",
+      "path": "vite.config.ts",
+      "timestamp": "2026-11-13T21:41:44.588Z"
+    },
+    {
+      "eventId": "2f2a053f-7a62-43b6-b42e-e23b3b33f7b0",
+      "operation": "apply_diff",
+      "path": "vite.config.ts",
+      "timestamp": "2026-11-13T21:41:44.588Z"
+    },
+    {
+      "eventId": "7c0c6e49-85b2-4b87-b447-f8ad82b8b4d7",
+      "operation": "apply_diff",
+      "path": "vite.config.ts",
+      "timestamp": "2026-11-13T21:41:44.588Z"
+    },
+    {
+      "eventId": "c5704836-de35-43b5-b8cc-61a55d933967",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:41:50.379Z"
+    },
+    {
+      "eventId": "c92c723e-12ae-4e82-b0fd-3f1540c4ae8c",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:41:50.379Z"
+    },
+    {
+      "eventId": "61d0d9f3-47ff-4aa3-9af1-c0e21c9addb7",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:53:15.423Z"
+    },
+    {
+      "eventId": "688edea3-de91-4a2a-b53d-ad8ed9b461b0",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:53:15.423Z"
+    },
+    {
+      "eventId": "e73b3528-08bb-4cb6-9bf4-7cecdd60dd53",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:53:15.423Z"
+    },
+    {
+      "eventId": "a7fc411a-f803-45a6-9cc4-878368cb5a8e",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:53:25.564Z"
+    },
+    {
+      "eventId": "cbac7557-b3bc-4555-8975-f94ac65ac8a3",
+      "operation": "apply_diff",
+      "path": "src/lib/ai.server.ts",
+      "timestamp": "2026-11-13T21:53:39.389Z"
+    }
+  ]
+}
